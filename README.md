@@ -1,5 +1,8 @@
 # Customer Segmentation using K-Means Clustering
 
+#Problem Statement
+Businesses have many customers but don’t know how to group them for targeted marketing.
+
 ## Project Overview
 This project applies unsupervised machine learning (K-Means Clustering) to segment mall customers into distinct groups based on their annual income and spending score. The goal is to identify patterns for targeted marketing strategies.
 
