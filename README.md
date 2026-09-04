@@ -12,7 +12,7 @@ This project applies unsupervised machine learning (K-Means Clustering) to segme
 - **Machine Learning Algorithm:** K-Means Clustering
 - **Methodology:** Elbow Method for optimal cluster selection, data standardization, cluster analysis and visualization.
 
-## Dataset
+# Dataset
 The dataset (`Mall_Customers.csv`) contains information about customers:
 - CustomerID
 - Genre
