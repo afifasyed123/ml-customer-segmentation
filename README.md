@@ -1,6 +1,6 @@
 # Customer Segmentation using K-Means Clustering
 
-## Problem Statement
+## Problem Statementttt
 Businesses have many customers but don’t know how to group them for targeted marketing.
 
 ## Project Overview
